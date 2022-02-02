@@ -1,0 +1,24 @@
+{
+  "name": "phantasia-pony",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CLOUDZiii/Phantasia-Pony.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CLOUDZiii/Phantasia-Pony/issues"
+  },
+  "homepage": "https://github.com/CLOUDZiii/Phantasia-Pony#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^15.0.0"
+  }
+}
