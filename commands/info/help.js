@@ -7,7 +7,7 @@ module.exports = {
   devOnly: false,
   run: async ({ client, message, Discord, args }) => {
     const exampleEmbed = new MessageEmbed()
-      .setColor("#0099ff")
+      .setColor("#e21784")
       .setTitle("Some title")
       .setDescription("Some description here");
 
