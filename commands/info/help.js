@@ -8,8 +8,8 @@ module.exports = {
   run: async ({ client, message, Discord, args }) => {
     const exampleEmbed = new MessageEmbed()
       .setColor("#e21784")
-      .setTitle("Some title")
-      .setDescription("Some description here");
+      .setTitle("Phantasia Help")
+      .setDescription("Prefix for Phantasia is `p?`.");
 
     message.channel.send({ embeds: [exampleEmbed] });
   },
